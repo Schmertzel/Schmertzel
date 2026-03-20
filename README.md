@@ -1,10 +1,10 @@
-# Schmertz
 <table>
   <tr>
     <td>
       will place image here soon :D
     </td>
     <td>
+      # Schmertz
       I like to experiment with things that interest me, and I love open-source projects and solutions
     </td>
   </tr>
