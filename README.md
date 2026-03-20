@@ -1,12 +1,8 @@
+# Schmertz
 <table>
   <tr>
     <td>
-      will place image here soon :D
-    </td>
-    <td>
-      <strong>Schmertzel</strong><br>
-      I am an IT student in the Philippines
-        I find it enjoying to experiment with things that interest me, I particularly love open-source projects and solutions
+     <p>I'm a first year IT student, I find it enjoying to experiment with things that interest me, I particularly love open-source projects and solutions </p>
     </td>
   </tr>
 </table>
